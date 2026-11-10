@@ -1,0 +1,14 @@
+[
+  {
+    "caseId": "case-01",
+    "residentRef": "resident-A",
+    "accountRef": "account-11",
+    "action": "close"
+  },
+  {
+    "caseId": "case-02",
+    "residentRef": "resident-B",
+    "accountRef": "account-22",
+    "action": "close"
+  }
+]

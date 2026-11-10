@@ -1,0 +1,23 @@
+[
+  {
+    "residentRef": "resident-A",
+    "accountRef": "account-11",
+    "masked": "账号尾号 0011",
+    "name": "合成居民甲",
+    "contact": "SYNTHETIC-CONTACT-A"
+  },
+  {
+    "residentRef": "resident-B",
+    "accountRef": "account-22",
+    "masked": "账号尾号 0022",
+    "name": "合成居民乙",
+    "contact": "SYNTHETIC-CONTACT-B"
+  },
+  {
+    "residentRef": "resident-C",
+    "accountRef": "account-33",
+    "masked": "账号尾号 0033",
+    "name": "合成居民丙",
+    "contact": "SYNTHETIC-CONTACT-C"
+  }
+]
